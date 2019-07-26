@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "314234",
+      "dni": "31423444",
+      "name": "EDUARDO ",
+      "age": 5
+    },
+    {
+      "id": "423423423",
+      "dni": "423423423",
+      "name": "juanito huek",
+      "age": 5
+    },
+    {
+      "id": "4453523528",
+      "dni": "123456789",
+      "name": "telefono gui",
+      "age": 5
+    },
+    {
+      "name": "FIRULAIS DOG",
+      "dni": "1112334555",
+      "age": 33,
+      "id": "NE2A0V7"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "name": "3123",
+      "dni": "3123",
+      "age": 2312,
+      "id": 3
+    },
+    {
+      "name": "EDUARDO RODRIGUEZ",
+      "dni": "2312",
+      "age": 123,
+      "id": 4
+    },
+    {
+      "name": "FIRULAIS DOG",
+      "dni": "23123",
+      "age": 33,
+      "id": 5
+    },
+    {
+      "name": "EDAURDO ROD",
+      "dni": "23123",
+      "age": 123,
+      "id": 6
+    }
+  ]
+}
